@@ -104,9 +104,9 @@ body {
 
 .idea-5 span,
 .idea-6 span,
-.wish-hbd span {
+/* .wish-hbd span {
   display: inline-block;
-}
+} */
 
 .idea-6 span {
   font-size: 15rem;
@@ -211,11 +211,11 @@ body {
   fill: #9a90da;
 }
 
-.wish-hbd {
+/* .wish-hbd {
   font-size: 3em;
   margin: 0;
   /* text-transform: uppercase; */
-}
+} */
 
 .wish h5 {
   font-weight: lighter;
@@ -285,9 +285,9 @@ body {
     top: -20px;
   }
 
-  .wish-hbd {
+  /* .wish-hbd {
     font-size: 2.3em;
-  }
+  } */
 
   .wish h5 {
     font-size: 1.4rem;
